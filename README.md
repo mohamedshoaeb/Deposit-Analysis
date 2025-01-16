@@ -1,4 +1,4 @@
-# Predicting Term Deposit Subscription
+Deposit Subscription
 
 ## **Overview**
 
